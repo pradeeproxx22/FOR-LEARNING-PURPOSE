@@ -3,3 +3,4 @@ New Repository = New folder
 Commit  =   save
 Fork  =   Complete copy
 GitHub issues = Complaint 
+History : History is used to see recent changes in the repo. code 
